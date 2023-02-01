@@ -23,7 +23,6 @@ jobs:
 #      uses: actions/setup-java@v1
 #      with:
 #        java-version: 1.11
-        
       uses: AdoptOpenJDK/install-jdk@v1
       with:
         version: '11'
